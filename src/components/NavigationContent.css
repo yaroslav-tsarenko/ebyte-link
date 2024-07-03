@@ -1,0 +1,66 @@
+.backgroundshadow3 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.11) inset;
+  border-radius: 8px;
+  background-color: #36a83a;
+}
+.navigation-cards {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 55px 0 0;
+}
+.navigation-icon,
+.simple-navigation {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.navigation-icon {
+  width: 42.3px;
+  font-size: 14px;
+  letter-spacing: 0.08em;
+  line-height: 110%;
+  text-transform: capitalize;
+}
+.simple-navigation {
+  width: 146.4px;
+  line-height: 135%;
+  color: #36a83a;
+}
+.weve-organized-our {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+  color: rgba(0, 0, 0, 0.8);
+}
+.navigation-content,
+.navigation-icon-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.navigation-icon-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 13px;
+  min-width: 202px;
+}
+.navigation-content {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 33px;
+  text-align: left;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.2);
+  font-family: Manrope;
+}
+@media screen and (max-width: 450px) {
+  .navigation-content {
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+}

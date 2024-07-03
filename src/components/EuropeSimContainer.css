@@ -1,0 +1,129 @@
+.data-icon {
+  height: 45px;
+  width: 68px;
+  position: relative;
+  border-radius: 4px;
+}
+.link-europe {
+  position: relative;
+  line-height: 22px;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 56.9px;
+}
+.albania2,
+.prepaid-sim-card {
+  margin: 0;
+}
+.prepaid-sim-card-container {
+  align-self: stretch;
+  position: relative;
+  font-size: 32px;
+  line-height: 120%;
+  font-family: Roboto;
+  color: #fff;
+}
+.data-parent,
+.link-europe-parent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.link-europe-parent {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  min-width: 226px;
+}
+.data-parent {
+  width: 439.3px;
+  flex-direction: row;
+  align-items: center;
+  gap: 24px;
+  min-width: 439.3px;
+}
+.the-best {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.choose-the-best {
+  margin: 0;
+}
+.the-best-prepaid-container1 {
+  width: 100%;
+}
+.the-best-prepaid-container {
+  height: 50px;
+  width: 435.9px;
+  position: relative;
+  line-height: 135%;
+  color: #fff;
+  text-align: right;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.albania-sim-container {
+  width: 1195.2px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.albania-sim-container-wrapper,
+.europe-sim-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.albania-sim-container-wrapper {
+  width: 1480px;
+  border-radius: 0 0 40px 40px;
+  background-color: #36a83a;
+  overflow: hidden;
+  justify-content: center;
+  padding: 91.5px 20px;
+}
+.europe-sim-container {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 20px;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.7);
+  font-family: Manrope;
+}
+@media screen and (max-width: 1050px) {
+  .data-parent {
+    flex: 1;
+  }
+  .albania-sim-container {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .prepaid-sim-card-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .data-parent {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .prepaid-sim-card-container {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .data-parent {
+    flex-wrap: wrap;
+  }
+}

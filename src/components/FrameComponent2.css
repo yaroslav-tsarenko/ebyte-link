@@ -1,0 +1,65 @@
+.ceo-weeklysvg-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.esim-marketplace,
+.simoptions-the-revolutionary {
+  margin: 0;
+}
+.simoptions-the-revolutionary-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.ceo-weeklysvg-parent {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.read-article {
+  flex: 1;
+  position: relative;
+  line-height: 25px;
+  font-weight: 500;
+}
+.icon6 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.read-article-parent {
+  width: 121.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  text-align: left;
+  color: #36a83a;
+  font-family: Lato;
+}
+.frame-container {
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 1px;
+  box-sizing: border-box;
+  gap: 32px;
+  text-align: center;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.8);
+  font-family: Manrope;
+}

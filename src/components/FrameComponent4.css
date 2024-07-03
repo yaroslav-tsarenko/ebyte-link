@@ -1,0 +1,43 @@
+.asia2,
+.esimasisvg-icon2 {
+  position: relative;
+  flex-shrink: 0;
+}
+.esimasisvg-icon2 {
+  height: 60px;
+  width: 60px;
+  overflow: hidden;
+}
+.asia2 {
+  align-self: stretch;
+  height: 33px;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+}
+.asia-wrapper,
+.esimasisvg-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.asia-wrapper {
+  flex: 1;
+  flex-direction: column;
+  padding: 13.5px 0 0;
+}
+.esimasisvg-parent {
+  width: 124.5px;
+  flex-direction: row;
+  gap: 12px;
+  text-align: left;
+  font-size: 24px;
+  color: #36a83a;
+  font-family: Roboto;
+}
+@media screen and (max-width: 450px) {
+  .asia2 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

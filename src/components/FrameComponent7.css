@@ -1,0 +1,108 @@
+.b2 {
+  height: 281.8px;
+  width: 145.5px;
+  position: absolute;
+  margin: 0 !important;
+  top: -67.4px;
+  left: -86px;
+  line-height: 276px;
+  display: flex;
+  align-items: center;
+}
+.choose,
+.destination1 {
+  margin: 0;
+}
+.choose-destination {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  font-weight: 600;
+}
+.choose-destination-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 59px 0 60px;
+}
+.simcard-easy-to-get-1svg-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-parent6 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 40.5px;
+}
+.background9 {
+  height: 5px;
+  flex: 1;
+  position: relative;
+  border-radius: 30px;
+  background-color: #f7f7f7;
+}
+.background-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 69px;
+}
+.backgroundshadow8,
+.parent {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  justify-content: flex-start;
+}
+.backgroundshadow8 {
+  box-shadow: 5px 10px 30px rgba(0, 0, 0, 0.05);
+  border-radius: 30px;
+  background-color: #fff;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 39.5px 10px 15px;
+  gap: 92.8px;
+  z-index: 1;
+  text-align: center;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.8);
+  font-family: Lato;
+}
+.parent {
+  flex-direction: row;
+  align-items: flex-start;
+  position: relative;
+  text-align: left;
+  font-size: 240px;
+  color: rgba(84, 121, 255, 0.08);
+  font-family: Inter;
+}
+@media screen and (max-width: 750px) {
+  .b2 {
+    font-size: 96px;
+    line-height: 166px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .b2 {
+    font-size: 60px;
+    line-height: 110px;
+  }
+  .backgroundshadow8 {
+    padding-top: 26px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+}

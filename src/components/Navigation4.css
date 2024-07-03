@@ -1,0 +1,655 @@
+.esimcarsvg-icon2 {
+  height: 60px;
+  width: 60px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.caribbean2 {
+  height: 33px;
+  flex: 1;
+  position: relative;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+}
+.esimcarsvg-parent,
+.frame-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.esimcarsvg-parent {
+  flex: 1;
+  align-items: center;
+  gap: 12px;
+}
+.frame-wrapper {
+  width: 201.9px;
+  flex-wrap: wrap;
+  align-items: flex-end;
+}
+.image-icon159 {
+  align-self: stretch;
+  width: 38px;
+  position: relative;
+  border-radius: 4px;
+  max-height: 100%;
+  min-height: 25px;
+}
+.anguilla2 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.region22 {
+  width: 208px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 19px 0 0;
+  box-sizing: border-box;
+  gap: 12px;
+}
+.image-icon160 {
+  align-self: stretch;
+  width: 38px;
+  position: relative;
+  border-radius: 4px;
+  max-height: 100%;
+  min-height: 25px;
+}
+.antigua-and-barbuda2 {
+  position: relative;
+  line-height: 22px;
+}
+.region23 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 9.5px 0;
+  gap: 12px;
+}
+.image-icon161 {
+  align-self: stretch;
+  width: 38px;
+  position: relative;
+  border-radius: 4px;
+  max-height: 100%;
+  min-height: 25px;
+}
+.aruba2 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.region24 {
+  width: 208px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 9.5px 0;
+  box-sizing: border-box;
+  gap: 12px;
+}
+.image-icon162 {
+  align-self: stretch;
+  width: 38px;
+  position: relative;
+  border-radius: 4px;
+  max-height: 100%;
+  object-fit: contain;
+  min-height: 25px;
+}
+.bahamas2 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.region25 {
+  width: 208px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 9.5px 0;
+  box-sizing: border-box;
+  gap: 12px;
+}
+.image-icon163 {
+  align-self: stretch;
+  width: 38px;
+  position: relative;
+  border-radius: 4px;
+  max-height: 100%;
+  min-height: 25px;
+}
+.barbados2 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.region26 {
+  width: 208px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 9.5px 0;
+  box-sizing: border-box;
+  gap: 12px;
+}
+.image-icon164 {
+  align-self: stretch;
+  width: 38px;
+  position: relative;
+  border-radius: 4px;
+  max-height: 100%;
+  min-height: 25px;
+}
+.british-virgin-islands2 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.region27 {
+  width: 208px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 9.5px 0;
+  box-sizing: border-box;
+  gap: 12px;
+}
+.image-icon165 {
+  align-self: stretch;
+  width: 38px;
+  position: relative;
+  border-radius: 4px;
+  max-height: 100%;
+  min-height: 25px;
+}
+.cayman-islands {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.region28 {
+  width: 208px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 9.5px 0;
+  box-sizing: border-box;
+  gap: 12px;
+}
+.image-icon166 {
+  align-self: stretch;
+  width: 38px;
+  position: relative;
+  border-radius: 4px;
+  max-height: 100%;
+  min-height: 25px;
+}
+.curaao {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.region29 {
+  width: 208px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 9.5px 0;
+  box-sizing: border-box;
+  gap: 12px;
+}
+.image-icon167 {
+  align-self: stretch;
+  width: 38px;
+  position: relative;
+  border-radius: 4px;
+  max-height: 100%;
+  min-height: 25px;
+}
+.dominica {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.region30 {
+  width: 208px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 9.5px 0;
+  box-sizing: border-box;
+  gap: 12px;
+}
+.image-icon168 {
+  align-self: stretch;
+  width: 38px;
+  position: relative;
+  border-radius: 4px;
+  max-height: 100%;
+  object-fit: contain;
+  min-height: 25px;
+}
+.dominican-republic {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.region31 {
+  width: 208px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 9.5px 0;
+  box-sizing: border-box;
+  gap: 12px;
+}
+.image-icon169 {
+  align-self: stretch;
+  width: 38px;
+  position: relative;
+  border-radius: 4px;
+  max-height: 100%;
+  min-height: 25px;
+}
+.puerto-rico {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.region32 {
+  width: 208px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 9.5px 0;
+  box-sizing: border-box;
+  gap: 12px;
+}
+.image-icon170 {
+  align-self: stretch;
+  width: 38px;
+  position: relative;
+  border-radius: 4px;
+  max-height: 100%;
+  min-height: 25px;
+}
+.grenada {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.region33 {
+  width: 208px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 9.5px 0;
+  box-sizing: border-box;
+  gap: 12px;
+}
+.image-icon171 {
+  align-self: stretch;
+  width: 38px;
+  position: relative;
+  border-radius: 4px;
+  max-height: 100%;
+  min-height: 25px;
+}
+.guadeloupe {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.region34 {
+  width: 208px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 9.5px 0;
+  box-sizing: border-box;
+  gap: 12px;
+}
+.image-icon172 {
+  align-self: stretch;
+  width: 38px;
+  position: relative;
+  border-radius: 4px;
+  max-height: 100%;
+  min-height: 25px;
+}
+.haiti {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.region35 {
+  width: 208px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 9.5px 0;
+  box-sizing: border-box;
+  gap: 12px;
+}
+.image-icon173 {
+  align-self: stretch;
+  width: 38px;
+  position: relative;
+  border-radius: 4px;
+  max-height: 100%;
+  min-height: 25px;
+}
+.jamaica {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.region36 {
+  width: 208px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 9.5px 0;
+  box-sizing: border-box;
+  gap: 12px;
+}
+.image-icon174 {
+  align-self: stretch;
+  width: 38px;
+  position: relative;
+  border-radius: 4px;
+  max-height: 100%;
+  min-height: 25px;
+}
+.martinique {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.region37 {
+  width: 208px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 9.5px 0;
+  box-sizing: border-box;
+  gap: 12px;
+}
+.image-icon175 {
+  align-self: stretch;
+  width: 38px;
+  position: relative;
+  border-radius: 4px;
+  max-height: 100%;
+  min-height: 25px;
+}
+.montserrat {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.region38 {
+  width: 208px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 9.5px 0;
+  box-sizing: border-box;
+  gap: 12px;
+}
+.image-icon176 {
+  align-self: stretch;
+  width: 38px;
+  position: relative;
+  border-radius: 4px;
+  max-height: 100%;
+  min-height: 25px;
+}
+.saint-barthlemy {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.region39 {
+  width: 208px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 9.5px 0;
+  box-sizing: border-box;
+  gap: 12px;
+}
+.image-icon177 {
+  align-self: stretch;
+  width: 38px;
+  position: relative;
+  border-radius: 4px;
+  max-height: 100%;
+  min-height: 25px;
+}
+.saint-kitts-and {
+  position: relative;
+  line-height: 22px;
+}
+.region40 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 9.5px 0;
+  gap: 12px;
+}
+.image-icon178 {
+  align-self: stretch;
+  width: 38px;
+  position: relative;
+  border-radius: 4px;
+  max-height: 100%;
+  min-height: 25px;
+}
+.saint-lucia {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.region41 {
+  width: 208px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 9.5px 0;
+  box-sizing: border-box;
+  gap: 12px;
+}
+.image-icon179 {
+  align-self: stretch;
+  width: 38px;
+  position: relative;
+  border-radius: 4px;
+  max-height: 100%;
+  min-height: 25px;
+}
+.saint-martin {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.region42 {
+  width: 208px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 9.5px 0;
+  box-sizing: border-box;
+  gap: 12px;
+}
+.image-icon180 {
+  height: 25px;
+  width: 38px;
+  position: relative;
+  border-radius: 4px;
+}
+.saint-vincent-and {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.region43 {
+  width: 208px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.image-icon181 {
+  align-self: stretch;
+  width: 38px;
+  position: relative;
+  border-radius: 4px;
+  max-height: 100%;
+  min-height: 25px;
+}
+.trinidad-and-tobago {
+  position: relative;
+  line-height: 22px;
+}
+.region44 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 9.5px 0;
+  gap: 12px;
+}
+.image-icon182 {
+  height: 25px;
+  width: 38px;
+  position: relative;
+  border-radius: 4px;
+}
+.turks-and-caicos {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.region45 {
+  width: 208px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.image-icon183 {
+  align-self: stretch;
+  width: 38px;
+  position: relative;
+  border-radius: 4px;
+  max-height: 100%;
+  min-height: 25px;
+}
+.us-virgin-islands {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.region-container,
+.region46 {
+  display: flex;
+  flex-direction: row;
+}
+.region46 {
+  width: 208px;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 9.5px 0;
+  box-sizing: border-box;
+  gap: 12px;
+}
+.region-container {
+  align-self: stretch;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  min-height: 272px;
+  gap: 20px;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.7);
+  font-family: Manrope;
+}
+.frame-parent1,
+.navigation2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent1 {
+  width: 1200px;
+  align-items: flex-start;
+  gap: 64px;
+}
+.navigation2 {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+  align-items: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 24px;
+  color: #36a83a;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1200px) {
+  .frame-parent1 {
+    gap: 32px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-parent1 {
+    gap: 16px;
+  }
+  .navigation2 {
+    gap: 32px;
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .caribbean2 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .navigation2 {
+    gap: 16px;
+  }
+}
